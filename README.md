@@ -1,8 +1,8 @@
 <!-- Banner -->
 <div align="center">
 
-# محمد الأحمدي
-### مصمم علامات تجارية · مطوّر تطبيقات · رائد أعمال
+#  MOHAMMED ALAHMADI 
+### محلل اعمال و علامات تجارية · مطوّر تطبيقات · رائد أعمال
 
 [![GitHub](https://img.shields.io/badge/GitHub-MOHAMMEDALAHMADI1-181717?style=flat&logo=github&logoColor=white)](https://github.com/MOHAMMEDALAHMADI1)
 
